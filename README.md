@@ -31,7 +31,7 @@ Typing the name of an already saved transient and clicking "Save Transient" will
 
 ### Developer API
 
-Once the plugin is installed, you can reverence the name space to use it;
+Once the plugin is installed, you can reference the name space to use it;
 
 ```
 use nyco\WpOpenDataTransients\Transients\Transients as Transients;
